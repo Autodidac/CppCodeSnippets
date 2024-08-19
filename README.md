@@ -1,2 +1,2 @@
-# CppGameUtilities
-Some Helpful Snippets for C++20
+# CppCodeSnippets
+A collection of Helpful Snippets written in C++ 20
