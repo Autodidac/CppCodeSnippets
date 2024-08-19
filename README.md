@@ -1,2 +1,2 @@
 # CppGameUtilities
-Some Utilities for Game Design in C++
+Some Helpful Snippets for C++20
